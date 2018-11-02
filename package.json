@@ -1,0 +1,17 @@
+{
+  "name": "selenium-register",
+  "version": "1.0.0",
+  "description": "Automates CMS Website tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pouya Oftadeh",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^2.43.1",
+    "faker": "^4.1.0",
+    "geckodriver": "^1.12.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
